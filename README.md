@@ -49,8 +49,9 @@ The form is specifically an employee onboarding form for my dream company, a che
   - File attachment handling
   - Error handling and user notifications
 
-#### **3. Microsoft Outlook for email delivery
-#### **4. AI chatbot (DeepSeek) for creating the data validation lists, and editing the VBA macros
+#### **3. Microsoft Outlook** for email delivery
+
+#### **4. AI chatbot (DeepSeek)** for creating the data validation lists, and editing the VBA macros
 
 
 
