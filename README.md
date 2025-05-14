@@ -15,7 +15,7 @@ The form is specifically an employee onboarding form for my dream company, a che
      
    ![Formsnip](https://github.com/user-attachments/assets/dcb00ff0-45e7-4ddd-a7c7-00a0f8936212)
    
-- Input Validation: The Department and Role fields are selected from data validation lists created in one worksheet. Entries in the data validation lists are derived by asking AI chatbot (ChatGPT) 
+- Input Validation: The Department and Role fields are selected from data validation lists created in one worksheet. Entries in the data validation lists are derived by asking AI chatbot (DeepSeek) 
 
  ![ValidSnip](https://github.com/user-attachments/assets/6ad44fce-4b8b-4c68-a6c6-6517f834e35f)
 
@@ -33,6 +33,24 @@ The form is specifically an employee onboarding form for my dream company, a che
    - Customizable Email Content 
    - Error Handling: Alerts user if email fails to send.  
 
-### Why This Project?  
- - Eliminates Manual Processes  – No more saving and emailing files manually.  
- - Reduces Errors – Structured data entry minimizes typos/missing info.
+### Tools and Technologies
+
+#### **1. Microsoft Excel**
+- **Primary platform** for data entry forms and storage
+- **Worksheets** for structured data organization
+- **Tables** for managing submitted records
+- **Form Controls** (buttons, input fields, labels)
+
+#### **2. VBA (Visual Basic for Applications)**
+- **Automation backbone** for all functionality
+- **Key uses**:
+  - Form validation (data format checks)
+  - Email generation and sending
+  - File attachment handling
+  - Error handling and user notifications
+
+#### **3. Microsoft Outlook for email delivery
+#### **4. AI chatbot (DeepSeek) for creating the data validation lists, and editing the VBA macros
+
+
+
